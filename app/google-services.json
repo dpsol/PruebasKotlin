@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658964290074",
+    "project_id": "pruebas-efd45",
+    "storage_bucket": "pruebas-efd45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658964290074:android:4414f09b72691f5afc0fa3",
+        "android_client_info": {
+          "package_name": "com.artnetsoft.pruebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658964290074-tpas1o20eiotlk2o331p50u66b1tj48u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artnetsoft.pruebas",
+            "certificate_hash": "3784b2c13697eb52f6c68822f97c072a7e440076"
+          }
+        },
+        {
+          "client_id": "658964290074-k4ae8ghln5hf4jb552edaa2hpi0uolhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDCEC7sLC-8JGwMSWpDWlNVOBNkUUMiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658964290074-k4ae8ghln5hf4jb552edaa2hpi0uolhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
